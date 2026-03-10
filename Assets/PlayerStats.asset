@@ -15,5 +15,6 @@ MonoBehaviour:
   hp: 10
   maxhp: 0
   str: 0
-  def: 0
-  exp: 0
+  def: 2222
+  exp: 2222
+
